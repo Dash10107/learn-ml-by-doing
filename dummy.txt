@@ -19,3 +19,4 @@ Update .gitignore to exclude data outputs
 Enhance visualization notebook with new plots
 Add XGBoost notebook to classification section
 Add comments and explanations to regression notebooks
+Update NLP notebooks with tokenization examples
