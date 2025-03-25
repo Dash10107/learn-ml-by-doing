@@ -1,2 +1,3 @@
 Initial commit: Add README and .gitignore
 Add data preprocessing notebooks
+Add classification notebooks: logistic regression, decision tree, SVM
