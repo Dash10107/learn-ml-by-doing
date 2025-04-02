@@ -22,3 +22,4 @@ Add comments and explanations to regression notebooks
 Update NLP notebooks with tokenization examples
 Optimize random forest parameters in classification notebook
 Add confusion matrix visualization to classification notebooks
+Update GAN notebook with training results
