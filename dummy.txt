@@ -2,3 +2,4 @@ Initial commit: Add README and .gitignore
 Add data preprocessing notebooks
 Add classification notebooks: logistic regression, decision tree, SVM
 Add regression notebooks: linear, polynomial, random forest
+Add clustering notebooks: k-means, hierarchical
