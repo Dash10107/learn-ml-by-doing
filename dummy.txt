@@ -7,3 +7,4 @@ Add dimensionality reduction notebooks: PCA, kernel PCA
 Add NLP notebooks: basic NLP, text classification
 Add reinforcement learning notebooks: Thompson Sampling, UCB
 Add generative models notebook: GAN
+Add visualization notebook
