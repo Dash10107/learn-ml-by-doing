@@ -9,3 +9,4 @@ Add reinforcement learning notebooks: Thompson Sampling, UCB
 Add generative models notebook: GAN
 Add visualization notebook
 Organize notebooks into topic-based folders
+Update README with project overview and structure
