@@ -11,3 +11,4 @@ Add visualization notebook
 Organize notebooks into topic-based folders
 Update README with project overview and structure
 Refactor notebook names for consistency
+Add requirements.txt for dependencies
