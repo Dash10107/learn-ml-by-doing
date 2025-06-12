@@ -17,3 +17,4 @@ Fix typos and formatting in README
 Add example datasets for demonstration
 Update .gitignore to exclude data outputs
 Enhance visualization notebook with new plots
+Add XGBoost notebook to classification section
