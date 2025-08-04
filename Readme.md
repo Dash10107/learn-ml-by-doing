@@ -140,8 +140,8 @@ Throughout the notebooks, you’ll get practice with many of the libraries commo
 
 1. **Clone the repository:**
    ```sh
-    git clone https://github.com/dash10107/ml-explorer-notebooks.git
-    cd ml-explorer-notebooks
+    git clone https://github.com/dash10107/learn-ml-by-doing.git
+    cd learn-ml-by-doing
    ```
 
 2. **Open any notebook:**
